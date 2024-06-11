@@ -26,8 +26,9 @@ Este é um aplicativo Flutter que mostra os personagens da Marvel, com informaç
 
 O projeto segue a arquitetura MVVM (Model-View-ViewModel) com o uso do BLoC (Business Logic Component) para gerenciar estados.
 
-### Estrutura de Pastas
+## Estrutura de Pastas
 
+```markdown
 marvel_wikia
 ├── assets
 │ ├── fonts
@@ -48,6 +49,7 @@ marvel_wikia
 │ └── widgets
 ├── test
 └── pubspec.yaml
+```
 
 ### Principais Componentes
 
