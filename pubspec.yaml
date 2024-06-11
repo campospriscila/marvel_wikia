@@ -1,0 +1,75 @@
+name: marvel_wikia
+description: "A Marvel Wikia app built with Flutter."
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  
+  bloc: ^8.1.4
+  card_swiper: ^3.0.1
+  crypto: ^3.0.3
+  cupertino_icons: ^1.0.6  
+  flex_color_scheme: ^7.3.1
+  flutter_bloc: ^8.1.5
+  http: ^1.2.1
+  mockito: ^5.4.4
+  shimmer: ^3.0.0
+  url_launcher: ^6.3.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/fonts/
+    - assets/images/
+    - assets/locale/
+
+  fonts:
+    - family: Roboto
+      fonts:
+        - asset: assets/fonts/Roboto-Black.ttf
+        - asset: assets/fonts/Roboto-BlackItalic.ttf
+        - asset: assets/fonts/Roboto-Bold.ttf
+        - asset: assets/fonts/Roboto-BoldItalic.ttf
+        - asset: assets/fonts/Roboto-Italic.ttf
+        - asset: assets/fonts/Roboto-Light.ttf
+        - asset: assets/fonts/Roboto-LightItalic.ttf
+        - asset: assets/fonts/Roboto-Medium.ttf
+        - asset: assets/fonts/Roboto-MediumItalic.ttf
+        - asset: assets/fonts/Roboto-Regular.ttf
+        - asset: assets/fonts/Roboto-Thin.ttf
+        - asset: assets/fonts/Roboto-ThinItalic.ttf
+    - family: Roboto Condensed
+      fonts:
+        - asset: assets/fonts/RobotoCondensed-Black.ttf
+        - asset: assets/fonts/RobotoCondensed-BlackItalic.ttf
+        - asset: assets/fonts/RobotoCondensed-Bold.ttf
+        - asset: assets/fonts/RobotoCondensed-BoldItalic.ttf
+        - asset: assets/fonts/RobotoCondensed-ExtraBold.ttf
+        - asset: assets/fonts/RobotoCondensed-ExtraBoldItalic.ttf
+        - asset: assets/fonts/RobotoCondensed-ExtraLight.ttf
+        - asset: assets/fonts/RobotoCondensed-ExtraLightItalic.ttf
+        - asset: assets/fonts/RobotoCondensed-Italic.ttf
+        - asset: assets/fonts/RobotoCondensed-Light.ttf
+        - asset: assets/fonts/RobotoCondensed-LightItalic.ttf
+        - asset: assets/fonts/RobotoCondensed-Medium.ttf
+        - asset: assets/fonts/RobotoCondensed-MediumItalic.ttf
+        - asset: assets/fonts/RobotoCondensed-Regular.ttf
+        - asset: assets/fonts/RobotoCondensed-SemiBold.ttf
+        - asset: assets/fonts/RobotoCondensed-SemiBoldItalic.ttf
+        - asset: assets/fonts/RobotoCondensed-Thin.ttf
+        - asset: assets/fonts/RobotoCondensed-ThinItalic.ttf

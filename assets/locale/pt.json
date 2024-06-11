@@ -1,0 +1,23 @@
+{
+    "loading-image": "Um gif de partes das páginas dos quadrinhos da Marvel",
+    "loading": "Carregando...",
+    "not-found": "Página não encontrada",
+    "not-found-desc": "A página que você está procurando não foi encontrada.",
+    "not-found-action": "Voltar para a página anterior",
+    "not-found-image": "Uma imagem do Capitão América gritando de frustração para ilustrar a página não encontrada.",
+
+    "home-title" : "Os personagens mais populares do momento",
+    "description": "Descrição",
+    "no-description": "Nenhuma descrição disponível",
+    "home-subtitle": "Todos os personagens",
+    "comics-available": "Quadrinhos disponíveis:",
+    "series-available": "Séries disponíveis:",
+    "close": "Fechar",
+
+    "settings": "Configurações",
+    "settings-language": "Idioma",
+    "settings-theme": "Tema",
+    "settings-theme-mode": "Modo Escuro",
+    "settings-cache": "Configurações de Cache",
+    "settings-cache-save": "Salvar Cache"
+}

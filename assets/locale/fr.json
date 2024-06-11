@@ -1,0 +1,23 @@
+{
+    "loading-image": "Une animation montrant des extraits des pages de bandes dessinées de Marvel",
+    "loading": "Chargement en cours...",
+    "not-found": "Page non trouvée",
+    "not-found-desc": "La page que vous avez demandée n'a pas été trouvée.",
+    "not-found-action": "Retour à l'accueil",
+    "not-found-image": "Une image de Captain America criant de frustration pour illustrer la page non trouvée.",
+
+    "home-title": "Les personnages les plus populaires maintenant",
+    "description": "Description",
+    "no-description": "Pas de description disponible",
+    "home-subtitle": "Tout les personnages",
+    "comics-available": "Comics disponibles:",
+    "series-available": "Séries disponibles :",    
+    "close": "Fermer",
+
+    "settings": "Paramètres",
+    "settings-language": "Langue",
+    "settings-theme": "Thème",
+    "settings-theme-mode": "Mode",
+    "settings-cache": "Cache",
+    "settings-cache-save": "Sauvegarder"
+}
